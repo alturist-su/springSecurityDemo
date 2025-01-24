@@ -20,7 +20,7 @@ public class StudentController {
             new Student(2, "Jane", 85),
             new Student(3, "Tom", 78),
             new Student(4, "Lucy", 92)
-    ));
+    ))git ;
 
     //getting all students
     @GetMapping("/students")
